@@ -1,16 +1,39 @@
-## Hi there 👋
+# Bienvenido a mi perfil 👋
 
-<!--
-**wolverinebeast1/wolverinebeast1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de la **Universidad de Alicante**, cursando **Ingeniería en Telecomunicación en Sonido e Imagen**. Aquí comparto proyectos divertidos, interesantes y desafiantes que desarrollo durante mi aprendizaje y exploración en el campo de la ingeniería y la programación.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Habilidades actuales
+
+- **Bash scripting**  
+  Automatización de tareas y administración de sistemas en entornos Linux.  
+- **Linux**  
+  Experiencia en la gestión y personalización de sistemas basados en Linux.  
+- **Matlab**  
+  Análisis de señales, procesamiento de datos , simulaciones y tratamiento digital de imágenes.  
+- **Python**  
+  Desarrollo de scripts y proyectos para resolver problemas complejos de manera eficiente.  
+
+---
+
+## 🚀 Proyectos en los que he trabajado
+
+🎯 *[Inserta aquí algunos proyectos destacados o ideas de proyectos]*  
+- Automatización de sistemas con Bash scripting.  
+- Procesamiento de señales utilizando Matlab.  
+
+---
+
+## 🌱 Aprendiendo actualmente
+
+Estoy ampliando mis conocimientos en:
+- Ciberseguridad  
+- Administración del sistema operativo linux 
+- Nuevas herramientas y lenguajes para el desarrollo de proyectos.  
+
+---
+
+## 📫 Cómo contactarme 
+
+¡Gracias por visitar mi perfil!. 🚀
