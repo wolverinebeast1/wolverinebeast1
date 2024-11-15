@@ -19,7 +19,6 @@ Soy estudiante de la **Universidad de Alicante**, cursando **Ingeniería en Tele
 
 ## 🚀 Proyectos en los que he trabajado
 
-🎯 *[Inserta aquí algunos proyectos destacados o ideas de proyectos]*  
 - Automatización de sistemas con Bash scripting.  
 - Procesamiento de señales utilizando Matlab.  
 
@@ -33,7 +32,5 @@ Estoy ampliando mis conocimientos en:
 - Nuevas herramientas y lenguajes para el desarrollo de proyectos.  
 
 ---
-
-## 📫 Cómo contactarme 
 
 ¡Gracias por visitar mi perfil!. 🚀
