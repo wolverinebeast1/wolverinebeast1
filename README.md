@@ -20,7 +20,8 @@ Soy estudiante de la **Universidad de Alicante**, cursando **Ingeniería en Tele
 ## 🚀 Proyectos en los que he trabajado
 
 - Automatización de sistemas con Bash scripting.  
-- Procesamiento de señales utilizando Matlab.  
+- Costumización del entorno linux.
+- Tratamiento digital de imágenes con MATLAB  
 
 ---
 
