@@ -1,37 +1,38 @@
-# Bienvenido a mi perfil 👋
+# Welcome to my profile👋
 
-Soy estudiante de la **Universidad de Alicante**, cursando **Ingeniería en Telecomunicación en Sonido e Imagen**. Aquí comparto proyectos divertidos, interesantes y desafiantes que desarrollo durante mi aprendizaje y exploración en el campo de la ingeniería y la programación.
+I am a student at the University of Alicante, studying Telecommunication Engineering. Here I share fun, interesting, and challenging projects that I develop during my learning and exploration in the field of engineering and programming.
 
 ---
 
-## 💻 Habilidades actuales
+## 💻 Current skills
 
 - **Bash scripting**  
-  Automatización de tareas y administración de sistemas en entornos Linux.  
+  Task automation and system administration in Linux environments.
 - **Linux**  
-  Experiencia en la gestión y personalización de sistemas basados en Linux.  
+  Experience in managing and customizing Linux-based systems. 
 - **Matlab**  
-  Análisis de señales, procesamiento de datos , simulaciones y tratamiento digital de imágenes.  
+  Signal analysis, data processing, simulations, and digital image processing.  
 - **Python**  
-  Desarrollo de scripts y proyectos para resolver problemas complejos de manera eficiente.  
+  Development of scripts and projects to efficiently solve complex problems. 
 
 ---
 
-## 🚀 Proyectos en los que he trabajado
+## 🚀 Projects I have worked on
 
-- Automatización de sistemas con Bash scripting.  
-- Costumización del entorno linux.
-- Tratamiento digital de imágenes con MATLAB  
+- System automation with Bash scripting. 
+- Linux environment customization.
+- Digital image processing with MATLAB.
 
 ---
 
-## 🌱 Aprendiendo actualmente
+## 🌱 Currently learning
 
 Estoy ampliando mis conocimientos en:
-- Ciberseguridad  
-- Administración del sistema operativo linux 
-- Nuevas herramientas y lenguajes para el desarrollo de proyectos.  
+- Cybersecurity 
+- Linux operating system administration 
+- Cloud managements
+- Building apps 
 
 ---
 
-¡Gracias por visitar mi perfil!. 🚀
+¡Thank you for visiting my profile!. 🚀
